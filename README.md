@@ -13,11 +13,7 @@
   </a>
  
    <a href="https://www.hackerrank.com/ahmad43">
-    <img src="https://img.shields.io/badge/HackerRank-ahmad43-blueviolet" alt="beecrowd" />
-  </a>
- 
-   <a href="https://codeforces.com/profile/noob_coder043">
-    <img src="https://img.shields.io/badge/CodeForces-noob_coder043-blueviolet" alt="beecrowd" />
+    <img src="https://img.shields.io/badge/HackerRank-ahmad43-success" alt="beecrowd" />
   </a>
  
   
@@ -27,18 +23,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-      <a href="https://github.com/KawsarAhmad43">
-    <img alt="GitHub"  src="https://img.shields.io/badge/GitHub-KawsarAhmad43-black">
-  </a>
+
     <a href="https://github.com/KawsarAhmad43">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-KawsarAhmad43-black">
   </a>
   
  
     
-      <a href="https://gitlab.com/KawsarAhmad43">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitLab-KawsarAhmad43-orange">
-  </a>
+ <a href="https://gitlab.com/KawsarAhmad43">
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-KawsarAhmad43-orange">
+ </a>
   
 
   <a href="https://github.com/KawsarAhmad43?tab=repositories">
