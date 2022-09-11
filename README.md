@@ -6,7 +6,7 @@
   </a>
  
   <a href="https://codeforces.com/profile/noob_coder043">
-    <img src="https://run.kaist.ac.kr/badges/codeforces/jo_on.svg" />
+    <img src="![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)" />
   </a>
   
 
