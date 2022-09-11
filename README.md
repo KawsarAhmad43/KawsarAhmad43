@@ -12,9 +12,15 @@
     <img src="https://img.shields.io/badge/CodeForces-noob_coder043-blueviolet" alt="beecrowd" />
   </a>
  
-    <a href="https://www.hackerrank.com/ahmad43">
-    <img alt="HackerRank"  src="https://img.shields.io/badge/HackerRank-ahmad43-success">
+   <a href="https://www.hackerrank.com/ahmad43">
+    <img src="https://img.shields.io/badge/HackerRank-ahmad43-blueviolet" alt="beecrowd" />
   </a>
+ 
+   <a href="https://codeforces.com/profile/noob_coder043">
+    <img src="https://img.shields.io/badge/CodeForces-noob_coder043-blueviolet" alt="beecrowd" />
+  </a>
+ 
+  
   
   
   <a href="https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/">
