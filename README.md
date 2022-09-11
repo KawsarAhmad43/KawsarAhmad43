@@ -7,7 +7,7 @@
   </a>
  
   <a href="https://codeforces.com/profile/noob_coder043">
-    <img src="[Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)" />
+    <img src="https://img.shields.io/badge/Codeforces-noob__coder043-blue" />
   </a>
   
 
