@@ -1,16 +1,83 @@
-### Hi there 👋
+## Hello World! 👋, My name is Kawsar Ahmad, and I aspire to be a great Software Engineer.
 
-<!--
-**KawsarAhmad43/KawsarAhmad43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Profiles: 
+ <a href="https://www.beecrowd.com.br/judge/en/profile/413853">
+    <img src="https://img.shields.io/badge/beecrowd-ahmad043-blueviolet" alt="beecrowd" />
+  </a>
+ 
+  <a href="https://codeforces.com/profile/noob_coder043">
+    <img src="https://run.kaist.ac.kr/badges/codeforces/jo_on.svg" />
+  </a>
+  
 
-Here are some ideas to get you started:
+  
+    <a href="https://www.hackerrank.com/ahmad43">
+    <img alt="HACKER rANK"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  
+    <a href="https://github.com/KawsarAhmad43">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  
+      <a href="https://gitlab.com/KawsarAhmad43">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/KawsarAhmad43?tab=repositories">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/KawsarAhmad43?color=green&logo=github">
+  </a>
+  <a href="https://github.com/KawsarAhmad43/">
+    <img src="https://komarev.com/ghpvc/?username=KawsarAhmad43" alt="visitors" />
+  </a>
+
+</p>
+
+#### Now
+
+- ✨ Contributing to [System Mine Lab](https://systemminelab.com/);
+- :fire: Interested in Software Engineering & Machine Learning;
+- - :fire: working primarily with the "Laravel" and "Vue.js" frameworks;
+- :calendar: Looking for contributing to PHP based open source projects 
+
+#### Bio
+
+- 🏢 I'm currently working at **Nogor Solution Ltd**
+- ⚙️ I use daily: `.php`, `.js`, `.yml`, `.vue`, `.c`, `.cpp`
+- 🌍 I'm mostly active within the **Laravel Community** & **Linkedin**
+- 🌱 Learning all about **DevOps**
+- 💬 Ping me about **Laravel**, **PHP**, **API**, **Machine Learning**, **Vuejs**, **Java**
+- 📫 Reach me: [linkedin.com/in/md-kawsar-ahmad](https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/)
+- 📝 Checkout my [Portfolio](https://sites.google.com/view/kawsar-ahmad/).
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarAhmad43&theme=blue-green)
+
+#### My Current Stack
+
+<img height="48" src="images/php-original.svg" alt="php"> <img height="48" src="images/laravel-plain-wordmark.svg" alt="Laravel"> <img height="48" src="images/vue-original.svg" alt="vue">  <img height="48" src="images/mysql-original.svg" alt="mysql"> <img height="48" src="images/git-original.svg" alt="git"> <img height="48" src="images/gitlab-original.svg" alt="git">
+
+#### Development Stuffs:
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KawsarAhmad43&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarAhmad43&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
+
+
+#### Connect With Me
+
+<p left="center">
+
+<a href="https://www.gmail.com">kaleon299@gmail.com
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
