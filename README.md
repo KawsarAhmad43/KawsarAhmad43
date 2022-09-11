@@ -7,13 +7,15 @@
   </a>
  
   <a href="https://codeforces.com/profile/noob_coder043">
-    <img src="https://img.shields.io/badge/Codeforces-noob__coder043-blue" />
+    <img src="[Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)" />
   </a>
   
 
-  
+   <a href="https://www.hackerrank.com/ahmad43">
+    <img src="https://img.shields.io/badge/HackerRank-ahmad43-green" alt="hackerrank" />
+  </a>
     <a href="https://www.hackerrank.com/ahmad43">
-    <img alt="HACKER rANK"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    <img alt="HackerRank"  src="https://img.shields.io/badge/HackerRank-ahmad43-success">
   </a>
   
   
@@ -23,11 +25,15 @@
   
   
     <a href="https://github.com/KawsarAhmad43">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-KawsarAhmad43-black">
   </a>
   
+ 
+     <a href="https://www.hackerrank.com/ahmad43">
+    <img alt="HackerRank"  src="https://img.shields.io/badge/HackerRank-ahmad43-success">
+  </a>
       <a href="https://gitlab.com/KawsarAhmad43">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitLab-KawsarAhmad43-important">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitLab-KawsarAhmad43-orange">
   </a>
   
 
