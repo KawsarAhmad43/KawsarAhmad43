@@ -10,10 +10,6 @@
     <img src="[Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)" />
   </a>
   
-
-   <a href="https://www.hackerrank.com/ahmad43">
-    <img src="https://img.shields.io/badge/HackerRank-ahmad43-green" alt="hackerrank" />
-  </a>
     <a href="https://www.hackerrank.com/ahmad43">
     <img alt="HackerRank"  src="https://img.shields.io/badge/HackerRank-ahmad43-success">
   </a>
@@ -23,15 +19,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  
+      <a href="https://github.com/KawsarAhmad43">
+    <img alt="GitHub"  src="https://img.shields.io/badge/GitHub-KawsarAhmad43-black">
+  </a>
     <a href="https://github.com/KawsarAhmad43">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-KawsarAhmad43-black">
   </a>
   
  
-     <a href="https://www.hackerrank.com/ahmad43">
-    <img alt="HackerRank"  src="https://img.shields.io/badge/HackerRank-ahmad43-success">
-  </a>
+    
       <a href="https://gitlab.com/KawsarAhmad43">
     <img alt="GitHub" src="https://img.shields.io/badge/GitLab-KawsarAhmad43-orange">
   </a>
