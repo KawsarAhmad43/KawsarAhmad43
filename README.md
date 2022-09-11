@@ -22,14 +22,10 @@
   <a href="https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
 
-    <a href="https://github.com/KawsarAhmad43">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-KawsarAhmad43-black">
-  </a>
-  
- 
-    
+ <a href="https://github.com/KawsarAhmad43">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-KawsarAhmad43-black">
+ </a>   
  <a href="https://gitlab.com/KawsarAhmad43">
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-KawsarAhmad43-orange">
  </a>
