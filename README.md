@@ -2,14 +2,16 @@
 
 <p align="left">Profiles: 
 
- <a href="https://www.beecrowd.com.br/judge/en/profile/413853">
+
+ 
+  <a href="https://www.beecrowd.com.br/judge/en/profile/413853">
     <img src="https://img.shields.io/badge/beecrowd-ahmad043-blueviolet" alt="beecrowd" />
   </a>
  
   <a href="https://codeforces.com/profile/noob_coder043">
-    <img src="[Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)" />
+    <img src="https://img.shields.io/badge/CodeForces-noob_coder043-blueviolet" alt="beecrowd" />
   </a>
-  
+ 
     <a href="https://www.hackerrank.com/ahmad43">
     <img alt="HackerRank"  src="https://img.shields.io/badge/HackerRank-ahmad43-success">
   </a>
