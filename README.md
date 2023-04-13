@@ -3,7 +3,8 @@
 <p align="left">Profiles: 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics]([https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto](https://metrics.lecoq.io/insights/KawsarAhmad43))
+![Metrics](https://metrics.lecoq.io/KawsarAhmad43?template=classic&isocalendar=1&traffic=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&config.timezone=Asia%2FDhaka)
+
  
   <a href="https://www.beecrowd.com.br/judge/en/profile/413853">
     <img src="https://img.shields.io/badge/beecrowd-ahmad043-blueviolet" alt="beecrowd" />
