@@ -60,7 +60,7 @@
 
 - ✨ Contributing to [System Mine Lab](https://systemminelab.com/);
 - :fire: Interested in Software Engineering & Machine Learning;
-- - :fire: working primarily with the "Laravel" and "Vue.js" frameworks;
+- :fire: working primarily with the "Laravel" and "Vue.js" frameworks;
 - :calendar: Looking for contributing to PHP based open source projects 
 
 #### Bio
