@@ -51,32 +51,6 @@
 
 
 
-
-
-
-
-
-#### Now
-
-- ✨ Contributing to [System Mine Lab](https://systemminelab.com/);
-- :fire: Interested in Software Engineering & Machine Learning;
-- :fire: working primarily with the "Laravel" and "Vue.js" frameworks;
-- :calendar: Looking for contributing to PHP based open source projects 
-
-#### Bio
-
-- 🏢 I'm currently working at **Nogor Solution Ltd**
-- ⚙️ I use daily: `.php`, `.js`, `.yml`, `.vue`, `.c`, `.cpp`
-- 🌍 I'm mostly active within the **Laravel Community** & **Linkedin**
-- 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Laravel**, **PHP**, **API**, **Machine Learning**, **Vuejs**, **Java**
-- 📫 Reach me: [linkedin.com/in/md-kawsar-ahmad](https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/)
-- 📝 Checkout my [Portfolio](https://sites.google.com/view/kawsar-ahmad/).
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarAhmad43&theme=blue-green)
-
-<div class="row"> 
-  <div class="col-md-12"> 
 <h2>:bulb: Languages & Frameworks I code in</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
@@ -114,9 +88,33 @@
 
               
 </br></br>
-</div>
 
-</div>
+
+
+
+
+
+#### Now
+
+- ✨ Contributing to [System Mine Lab](https://systemminelab.com/);
+- :fire: Interested in Software Engineering & Machine Learning;
+- :fire: working primarily with the "Laravel" and "Vue.js" frameworks;
+- :calendar: Looking for contributing to PHP based open source projects 
+
+#### Bio
+
+- 🏢 I'm currently working at **Nogor Solution Ltd**
+- ⚙️ I use daily: `.php`, `.js`, `.yml`, `.vue`, `.c`, `.cpp`
+- 🌍 I'm mostly active within the **Laravel Community** & **Linkedin**
+- 🌱 Learning all about **DevOps**
+- 💬 Ping me about **Laravel**, **PHP**, **API**, **Machine Learning**, **Vuejs**, **Java**
+- 📫 Reach me: [linkedin.com/in/md-kawsar-ahmad](https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/)
+- 📝 Checkout my [Portfolio](https://sites.google.com/view/kawsar-ahmad/).
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarAhmad43&theme=blue-green)
+
+
+
 
 #### Development Stuffs:
 
