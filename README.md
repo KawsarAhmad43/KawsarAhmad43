@@ -137,8 +137,3 @@
 </p>
 
 
-
-![Total Stars](https://github-readme-stats.vercel.app/api?username=KawsarAhmad43&show_icons=true&count_private=true&include_all_commits=true&custom_title=Total+Stars)
-
-
-
