@@ -137,5 +137,5 @@
 </p>
 
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository)
+![GitHub stars](https://img.shields.io/github/stars/KawsarAhmad43/BeeScripts)
 
