@@ -137,5 +137,8 @@
 </p>
 
 
-![GitHub stars](https://img.shields.io/github/stars/KawsarAhmad43/BeeScripts)
+
+![Total Stars](https://github-readme-stats.vercel.app/api?username=KawsarAhmad43&show_icons=true&count_private=true&include_all_commits=true&custom_title=Total+Stars)
+
+
 
