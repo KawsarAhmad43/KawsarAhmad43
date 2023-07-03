@@ -37,6 +37,10 @@
     <img src="https://komarev.com/ghpvc/?username=KawsarAhmad43" alt="visitors" />
   </a>
 
+
+  ![Total Stars](https://img.shields.io/github/stars/KawsarAhmad43?style=social)
+
+
 </p>
 
 
