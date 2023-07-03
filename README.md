@@ -135,3 +135,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
+
+
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository)
+
