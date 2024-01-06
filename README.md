@@ -115,6 +115,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarAhmad43&theme=blue-green)
 
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=KawsarAhmad43&show_icons=true&theme=radical)
 
 
 
