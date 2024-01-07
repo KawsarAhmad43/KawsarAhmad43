@@ -49,7 +49,6 @@
 ![Metrics](https://metrics.lecoq.io/KawsarAhmad43?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KawsarAhmad43)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -126,6 +125,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarAhmad43&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KawsarAhmad43)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
