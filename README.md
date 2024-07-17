@@ -35,14 +35,6 @@
 </p>
 
 
-
-
-
-
-
-
-
-
 <h2>:bulb: Languages & Frameworks I code in</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
@@ -63,17 +55,15 @@
 
 </br>
 
-<h2>:bulb: Tools I use for Version Control and CI/CD pipeline</h2>
-       
+<h2>:bulb: Tools I use for Version Control and CI/CD pipeline</h2>    
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" /></code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" /> </code>              
-</br></br>
+</br>
 
 
 <h2>:bulb: Tools I use for Project Management and Development</h2>
-
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" /> </code>
@@ -84,11 +74,8 @@
 
 
 <h2>:bulb: Operating systems that i'm familiar with</h2>
-
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" /> </code>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </code>
-
-              
+<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </code>             
 </br></br>
 
 
