@@ -6,18 +6,12 @@
   <a href="https://www.beecrowd.com.br/judge/en/profile/413853">
     <img src="https://img.shields.io/badge/beecrowd-ahmad043-blueviolet" alt="beecrowd" />
   </a>
- 
   <a href="https://codeforces.com/profile/noob_coder043">
     <img src="https://img.shields.io/badge/CodeForces-noob_coder043-blueviolet" alt="beecrowd" />
   </a>
- 
    <a href="https://www.hackerrank.com/ahmad43">
     <img src="https://img.shields.io/badge/HackerRank-ahmad43-success" alt="beecrowd" />
   </a>
- 
-  
-  
-  
   <a href="https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -74,9 +68,19 @@
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" /></code>
-              
+<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" /> </code>              
 </br></br>
 
+
+<h2>:bulb: Tools I use for Project Management and Development</h2>
+
+<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> </code>
+<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </code>
+<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" /> </code>
+<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> </code>
+<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original-wordmark.svg" /> </code>
+<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laragon/laragon-original.svg" /> </code>
+</br>
 
 
 <h2>:bulb: Operating systems that i'm familiar with</h2>
