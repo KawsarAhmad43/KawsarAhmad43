@@ -51,16 +51,14 @@
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-
-
-</br>
+</br></br>
 
 <h2>:bulb: Tools I use for Version Control and CI/CD pipeline</h2>    
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" /></code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" /> </code>              
-</br>
+</br></br>
 
 
 <h2>:bulb: Tools I use for Project Management and Development</h2>
@@ -70,7 +68,7 @@
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laragon/laragon-original.svg" /> </code>
-</br>
+</br></br>
 
 
 <h2>:bulb: Operating systems that i'm familiar with</h2>
