@@ -66,8 +66,8 @@
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" /> </code>
 <code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> </code>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original-wordmark.svg" /> </code>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laragon/laragon-original.svg" /> </code>
+<code> <img width="35px" src="https://img.icons8.com/color/48/000000/google-colab.png" /> </code>
+<code> <img width="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-laragon-3628708-3030006.png" /> </code>
 </br></br>
 
 
