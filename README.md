@@ -45,14 +45,14 @@
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" /></code>
+<code><img title="Vue.js" alt="vue js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
+<code><img title="Machine Learning" alt="machine learning" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img title="Vue.js" alt="vue js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
-<code><img title="Machine Learning" alt="machine learning" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
 </br></br>
 
 <h2>:bulb: Tools I use for Version Control and CI/CD pipeline</h2>    
