@@ -98,7 +98,7 @@
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Laravel**, **PHP**, **API**, **Machine Learning**, **Vuejs**, **Java**
 - 📫 Reach me: [linkedin.com/in/md-kawsar-ahmad](https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/)
-- 📝 Checkout my [Portfolio](https://sites.google.com/view/kawsar-ahmad/).
+- 📝 Checkout my [Portfolio](https://kawsarahmad43.github.io/me/).
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarAhmad43&theme=blue-green)
 
