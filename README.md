@@ -82,7 +82,9 @@
 
 
 <h2>:bulb: My GitHub Stats at a Glance:</h2>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawsarAhmad43&theme=default)
+
 
 <table>
   <tr>
