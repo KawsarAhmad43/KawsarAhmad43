@@ -82,6 +82,19 @@
 
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawsarAhmad43&theme=default)
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Now
 
@@ -99,21 +112,6 @@
 - 💬 Ping me about **Laravel**, **PHP**, **API**, **Machine Learning**, **Vuejs**, **Java**
 - 📫 Reach me: [linkedin.com/in/md-kawsar-ahmad](https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/)
 - 📝 Checkout my [Portfolio](https://kawsarahmad43.github.io/me/).
-
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarAhmad43&theme=blue-green)
-
-
-
-
-#### Development Stuffs:
-
-<b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KawsarAhmad43&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarAhmad43&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KawsarAhmad43)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
