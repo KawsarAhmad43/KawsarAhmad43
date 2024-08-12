@@ -1,6 +1,6 @@
 ## Hello World! 👋, My name is Kawsar Ahmad, and I aspire to be a great Software Engineer.
-
-<p align="left">Profiles: 
+<h2>:bulb: My Profiles</h2>
+<p align="left"> 
 
 
   <a href="https://www.beecrowd.com.br/judge/en/profile/413853">
@@ -81,12 +81,19 @@
 
 
 
-
+<h2>:bulb: My GitHub Stats at a Glance:</h2>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawsarAhmad43&theme=default)
 
-
-
-
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawsarAhmad43&theme=default"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KawsarAhmad43&theme=default"></td>
+  </tr>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KawsarAhmad43&theme=default"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KawsarAhmad43&theme=default&utcOffset=8"></td>
+  </tr>
+</table>
 
 
 
