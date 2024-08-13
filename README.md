@@ -102,22 +102,12 @@
 
 
 
-
-
-
-#### Now
-
-- ✨ Contributing to [System Mine Lab](https://systemminelab.com/);
-- :fire: Interested in Software Engineering & Machine Learning;
-- :fire: working primarily with the "Laravel" and "Vue.js" frameworks;
-- :calendar: Looking for contributing to PHP based open source projects 
-
 #### Bio
 
-- 🏢 I'm currently working at **Nogor Solution Ltd**
-- ⚙️ I use daily: `.php`, `.js`, `.yml`, `.vue`, `.c`, `.cpp`
-- 🌍 I'm mostly active within the **Laravel Community** & **Linkedin**
-- 🌱 Learning all about **DevOps**
+- 🏢 I'm currently working at **Mediusware Ltd**
+- ⚙️ I use daily: `.php`, `.js`, `.blade`, `.vue`, `.py`, `.ipynb`
+- 🌍 I'm mostly active with the **Laravel**
+- 🌱 Learning all about **Machine Learning & Laravel**
 - 💬 Ping me about **Laravel**, **PHP**, **API**, **Machine Learning**, **Vuejs**, **Java**
 - 📫 Reach me: [linkedin.com/in/md-kawsar-ahmad](https://www.linkedin.com/in/md-kawsar-ahmad-77800a105/)
 - 📝 Checkout my [Portfolio](https://kawsarahmad43.github.io/me/).
