@@ -53,6 +53,9 @@
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
+<code><img title="Golang" alt="golang" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
+<code><img title="LangChain" alt="langchain" width="35px" src="https://github.com/hwchase17/langchain/raw/master/docs/assets/logo.png" /></code>
+
 </br></br>
 
 <h2>:bulb: Tools I use for Version Control and CI/CD pipeline</h2>    
