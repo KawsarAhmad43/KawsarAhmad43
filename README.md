@@ -54,7 +54,9 @@
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img title="Golang" alt="golang" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
-<code><img title="LangChain" alt="langchain" width="35px" src="https://github.com/hwchase17/langchain/raw/master/docs/assets/logo.png" /></code>
+<code><img title="LangChain" alt="langchain" width="35px" src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/assets/logo.svg" /></code>
+<code><img title="LangChain" alt="langchain" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Chain_link_icon.png" /></code>
+
 
 </br></br>
 
