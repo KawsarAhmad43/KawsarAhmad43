@@ -1,4 +1,10 @@
-## Hello World! 👋, My name is Kawsar Ahmad, and I aspire to be a great Software Engineer.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%23FFDB58&size=32&center=true&vCenter=true&width=900&height=60&lines=Hello+World!+👋;I'm+Md.+Kawsar+Ahmad;Software+Engineer+|+Researcher+|+Tech+Explorer" alt="Typing SVG" />
+</h1>
+
+
+
+
 <h2>:bulb: My Profiles</h2>
 <p align="left"> 
 
