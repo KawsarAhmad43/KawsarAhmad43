@@ -44,7 +44,7 @@
 
 
 
-<h2>:bulb: My Skills</h2>
+<h2>:bulb: My Expertise</h2>
 <table>
   <tr>
     <td valign="top" width="50%">
