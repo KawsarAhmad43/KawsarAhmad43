@@ -43,59 +43,42 @@
 
 
 
-<h2>:bulb: My Expertise</h2>
+
+<h2>:bulb: My Skills</h2>
 <table>
   <tr>
     <td valign="top" width="50%">
       <h3>Fullstack Software Engineer</h3>
-      <h4>Frontend</h4>
       <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
       <code><img title="Bootstrap" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
       <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
       <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-      <code><img title="Vue.js" alt="vue js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
-      <h4>Backend</h4>
       <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
       <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
       <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" /></code>
+      <code><img title="Vue.js" alt="vue js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
       <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></code>
       <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" /></code>
+      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
       <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
       <code><img title="Golang" alt="golang" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
-      <h4>Databases</h4>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
     </td>
     <td valign="top" width="50%">
       <h3>Machine Learning Engineer</h3>
-      <h4>Language</h4>
       <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-      <h4>Data Processing</h4>
       <code><img title="NumPy" alt="numpy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code>
       <code><img title="Pandas" alt="pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></code>
-      <h4>Machine Learning Libraries</h4>
       <code><img title="Scikit-learn" alt="scikitlearn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></code>
-      <h4>Deep Learning Frameworks</h4>
       <code><img title="TensorFlow" alt="tensorflow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
       <code><img title="Keras" alt="keras" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" /></code>
       <code><img title="PyTorch" alt="pytorch" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code>
-      <h4>Development Tools</h4>
       <code><img title="Jupyter" alt="jupyter" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
-      <code><img title="Streamlit" alt="streamlit" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" /></code>
-      <h4>Databases</h4>
-      <code><img title="Neo4j" alt="neo4j" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" /></code>
-      <code><img title="ChromaDB" alt="chromadb" width="35px" src="https://docs.trychroma.com/img/chroma.png" /></code>
-      <h4>AI Frameworks</h4>
       <code><img title="Hugging Face" alt="huggingface" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" /></code>
       <code><img title="LangChain" alt="LangChain" width="35px" src="https://github.com/user-attachments/assets/8040c888-4163-4b69-a66d-369bc1a07c5a" /></code>
-      <h4>Advanced Concepts</h4>
-      <code>RAG System</code>
-      <code>Model Inferencing</code>
-      <code>Edge Computing</code>
     </td>
   </tr>
 </table>
 </br></br>
-
 
 
 
