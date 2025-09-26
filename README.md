@@ -47,65 +47,6 @@
 
 
 
-<h2>:bulb: My Skills</h2>
-
-<table>
-  <tr>
-    <!-- Fullstack Software Engineer Card -->
-    <td valign="top" style="padding-right: 30px;">
-      <h3 align="center">💻 Fullstack Software Engineer</h3>
-
-      <b>Frontend:</b><br>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" /></code>
-      <br><br>
-
-      <b>Backend & Frameworks:</b><br>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original-wordmark.svg" title="Livewire" /></code>
-      <br><br>
-
-      <b>Database:</b><br>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" /></code>
-    </td>
-
-    <!-- Machine Learning Engineer Card -->
-    <td valign="top">
-      <h3 align="center">🤖 Machine Learning Engineer</h3>
-
-      <b>Programming & ML Frameworks:</b><br>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" /></code>
-      <br><br>
-
-      <b>Database & Backend:</b><br>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" /></code>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Golang" /></code>
-      <br><br>
-
-      <b>Other Tools:</b><br>
-      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" /></code>
-      <code><img width="35px" src="https://github.com/user-attachments/assets/8040c888-4163-4b69-a66d-369bc1a07c5a" title="LangChain" /></code>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
