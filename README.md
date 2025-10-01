@@ -40,54 +40,68 @@
 
 </p>
 
+# My Expertise
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Fullstack Software Engineer</h3>
+      <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+      <code><img title="Bootstrap" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
+      <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+      <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+      <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
+      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" /></code>
+      <code><img title="Vue.js" alt="vue js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
+      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></code>
+      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" /></code>
+      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+      <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+      <code><img title="Golang" alt="golang" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Machine Learning Engineer</h3>
+      <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+      <code><img title="NumPy" alt="numpy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code>
+      <code><img title="Pandas" alt="pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></code>
+      <code><img title="Scikit-learn" alt="scikitlearn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></code>
+      <code><img title="TensorFlow" alt="tensorflow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
+      <code><img title="Keras" alt="keras" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" /></code>
+      <code><img title="PyTorch" alt="pytorch" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code>
+      <code><img title="Jupyter" alt="jupyter" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
+      <code><img title="Hugging Face" alt="huggingface" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" /></code>
+      <code><img title="LangChain" alt="langchain" width="35px" src="https://github.com/user-attachments/assets/8040c888-4163-4b69-a66d-369bc1a07c5a" /></code>
+      <code><img title="Neo4j" alt="neo4j" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" /></code>
+      <code><img title="Google Colab" alt="google colab" width="35px" src="https://img.icons8.com/color/48/000000/google-colab.png" /></code>
+      <code><img title="ChromaDB" alt="chromadb" width="35px" src="https://avatars.githubusercontent.com/u/108169244?s=200&v=4" /></code>
+      <code><img title="FAISS" alt="faiss" width="35px" src="https://raw.githubusercontent.com/facebookresearch/faiss/main/.github/FAISS_logo_small.png" /></code>
+      <code><img title="LangSmith" alt="langsmith" width="35px" src="https://avatars.githubusercontent.com/u/108169244?s=200&v=4" /></code>
+      <code><img title="LangFuse" alt="langfuse" width="35px" src="https://avatars.githubusercontent.com/u/108169244?s=200&v=4" /></code>
+      <code><img title="OpenAI" alt="openai" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" /></code>
+      <code><img title="GraphQL" alt="graphql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></code>
+      <code><img title="Nvidia" alt="nvidia" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nvidia/nvidia-original.svg" /></code>
+      <code><img title="FastAPI" alt="fastapi" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /></code>
+      <code><img title="RAG" alt="rag" width="35px" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/rag.png" /></code>
+      <code><img title="Edge Computing" alt="edge computing" width="35px" src="https://img.icons8.com/ios/50/000000/edge-computing.png" /></code>
+    </td>
+  </tr>
+</table>
+
+# Development and Management Tools
+  <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
+  <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></code>
+  <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" /></code>
+  <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" /></code>
+  <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /></code>
+  <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /></code>
+  <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" /></code>
+  <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /></code>
+  <code><img width="35px" src="https://img.icons8.com/color/48/000000/google-colab.png" /></code>
+  <code><img width="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-laragon-3628708-3030006.png" /></code>
 
 
 
-<h2>:bulb: My Expertise</h2> <table> <tr> <td valign="top" width="50%"> <h3>Fullstack Software Engineer</h3> <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code> <code><img title="Bootstrap" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code> <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code> <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code> <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code> <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code> <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" /></code> <code><img title="Vue.js" alt="vue js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code> <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></code> <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" /></code> <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code> <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code> <code><img title="Golang" alt="golang" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code> </td> <td valign="top" width="50%"> <h3>Machine Learning Engineer</h3> <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code> <code><img title="NumPy" alt="numpy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code> <code><img title="Pandas" alt="pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></code> <code><img title="Scikit-learn" alt="scikitlearn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></code> <code><img title="TensorFlow" alt="tensorflow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code> <code><img title="Keras" alt="keras" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" /></code> <code><img title="PyTorch" alt="pytorch" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code> <code><img title="Jupyter" alt="jupyter" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code> <code><img title="Hugging Face" alt="huggingface" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" /></code> <code><img title="LangChain" alt="LangChain" width="35px" src="https://github.com/user-attachments/assets/8040c888-4163-4b69-a66d-369bc1a07c5a" /></code> </td> </tr> </table> </br></br>
 
-
-<!-- <h2>:bulb: Languages & Frameworks I code in</h2> -->
-<!-- <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code> -->
-<!-- <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code> -->
-<!-- <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code> -->
-<!-- <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code> -->
-<!-- <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code> -->
-<!-- <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code> -->
-<!-- <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code> -->
-<!-- <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code> -->
-<!-- <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" /></code> -->
-<!-- <code><img title="Vue.js" alt="vue js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code> -->
-<!-- <code><img title="Machine Learning" alt="machine learning" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code> -->
-<!-- <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></code> -->
-<!-- <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" /></code> -->
-<!-- <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code> -->
-<!-- <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code> -->
-<!-- <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code> -->
-<!-- <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code> -->
-<!-- <code><img title="Golang" alt="golang" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code> -->
-<!-- <code><img title="LangChain" alt="LangChain" width="35px" src="https://github.com/user-attachments/assets/8040c888-4163-4b69-a66d-369bc1a07c5a" /></code> -->
-
-
-
-
-</br></br>
-
-<h2>:bulb: Tools I use for Version Control and CI/CD pipeline</h2>    
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> </code>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> </code>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" /></code>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" /> </code>              
-</br></br>
-
-
-<h2>:bulb: Tools I use for Project Management and Development</h2>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> </code>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> </code>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" /> </code>
-<code> <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> </code>
-<code> <img width="35px" src="https://img.icons8.com/color/48/000000/google-colab.png" /> </code>
-<code> <img width="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-laragon-3628708-3030006.png" /> </code>
-</br></br>
 
 
 <h2>:bulb: Operating systems that i'm familiar with</h2>
